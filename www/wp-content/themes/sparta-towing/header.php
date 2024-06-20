@@ -81,9 +81,9 @@
 					<div class="text-white/90 lg:w-1/2 xl:w-[65%] lg:mr-28 pt-12 pb-8 lg:py-36 [&_h1]:text-white [&_h1]:uppercase lg:[&_p]:mb-10 max-lg:text-center">
 						<h1>
 							Reliable <span class="text-primary">Towing</span> and Roadside Assistance in Your Area
-							<figure class="inline-block [&_img]:inline-block">
+							<span class="inline-block [&_img]:inline-block">
 								<img src="<?php echo get_theme_file_uri('assets/images/image-in-heading.png'); ?>" alt="" width="137" height="55" loading="lazy">
-							</figure>
+							</span>
 						</h1>
 						<p>Sparta Towing is your one stop shop for all your towing needs. Don't be stranded on the side of the road. Call us today!</p>
 						<a href="tel:9728003448" class="btn bg-white/10 hover:bg-white/50 py-2 px-6 rounded-lg flex justify-between max-w-[216px] border-none max-lg:mx-auto">
@@ -100,7 +100,7 @@
 					</div>
 					<div id="heroForm" class="hero-form bg-white rounded-3xl p-2 mb-10 lg:my-10">
 						<div class="bg-ss-off-white rounded-2xl pt-[14px] pb-px text-center [&_p]:mb-[14px] px-8 mb-10">
-							<h2 class="text-ss-dark text-2xl font-medium">Get a Free Quote</h2>
+							<h2 class="text-ss-dark text-2xl font-medium capitalize">Get a Free Quote</h2>
 							<p>Share your problem with us and we will be right back to you with the solution of your problem.</p>
 						</div>
 						<?php echo do_shortcode('[gravityform id="1" title="false" description="false" ajax=true]'); ?>

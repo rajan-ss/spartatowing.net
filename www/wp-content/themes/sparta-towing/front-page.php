@@ -105,7 +105,7 @@ get_header();
 			<div class="px-5 w-full sm:w-1/2 lg:w-1/3">
 				<div class="bg-white rounded-xl [&_p]:px-5 sm:[&_p]:px-8 md:[&_p]:px-10 lg:[&_p]:px-12 [&_p]:pb-[26px] h-full"><!-- Card -->
 					<figure class="justify-center flex p-5">
-						<img src="<?php echo get_theme_file_uri('assets/images/jump_starts.png'); ?>" width="560" height="220" loading="lazy">
+						<img src="<?php echo get_theme_file_uri('assets/images/jump_starts.png'); ?>" alt="Card Image" width="560" height="220" loading="lazy">
 					</figure>
 					<h3 class="h4 text-ss-dark pt-5 mb-4">Jump Starts</h3>
 					<p>Fast and reliable jump start servicesb to get you back on the road Quickly.</p>
@@ -114,7 +114,7 @@ get_header();
 			<div class="px-5 w-full sm:w-1/2 lg:w-1/3">
 				<div class="bg-white rounded-xl [&_p]:px-5 sm:[&_p]:px-8 md:[&_p]:px-10 lg:[&_p]:px-12 [&_p]:pb-[26px] h-full"><!-- Card -->
 					<figure class="justify-center flex p-5">
-						<img src="<?php echo get_theme_file_uri('assets/images/tire-changes.png'); ?>" width="560" height="220" loading="lazy">
+						<img src="<?php echo get_theme_file_uri('assets/images/tire-changes.png'); ?>" alt="Card Image" width="560" height="220" loading="lazy">
 					</figure>
 					<h3 class="h4 text-ss-dark pt-5 mb-4">Tire Changes</h3>
 					<p>We provide swift and dependable tire change assistance. If you have a flat tire or a blowout, our expert team is on call 24/7 to get you back on the road safely.</p>
@@ -123,7 +123,7 @@ get_header();
 			<div class="px-5 w-full sm:w-1/2 lg:w-1/3">
 				<div class="bg-white rounded-xl [&_p]:px-5 sm:[&_p]:px-8 md:[&_p]:px-10 lg:[&_p]:px-12 [&_p]:pb-[26px] h-full"><!-- Card -->
 					<figure class="justify-center flex p-5">
-						<img src="<?php echo get_theme_file_uri('assets/images/lock-outs.png'); ?>" width="560" height="220" loading="lazy">
+						<img src="<?php echo get_theme_file_uri('assets/images/lock-outs.png'); ?>" alt="Card Image" width="560" height="220" loading="lazy">
 					</figure>
 					<h3 class="h4 text-ss-dark pt-5 mb-4">Lock Outs</h3>
 					<p>Locked out of your vehicle? At Sparta Towing we offer prompt & reliable lockout assistance to get you back inside your car quickly & safely.</p>
@@ -132,7 +132,7 @@ get_header();
 			<div class="px-5 w-full sm:w-1/2 lg:w-1/3">
 				<div class="bg-white rounded-xl [&_p]:px-5 sm:[&_p]:px-8 md:[&_p]:px-10 lg:[&_p]:px-12 [&_p]:pb-[26px] h-full"><!-- Card -->
 					<figure class="justify-center flex p-5">
-						<img src="<?php echo get_theme_file_uri('assets/images/Long-distance-towing.png'); ?>" width="560" height="220" loading="lazy">
+						<img src="<?php echo get_theme_file_uri('assets/images/Long-distance-towing.png'); ?>" alt="Card Image" width="560" height="220" loading="lazy">
 					</figure>
 					<h3 class="h4 text-ss-dark pt-5 mb-4">Long Distance Towing</h3>
 					<p>Whether you're relocating or need to transport your vehicle across state lines, our experienced team can help you with all of your long distance towing needs.</p>

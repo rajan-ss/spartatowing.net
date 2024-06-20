@@ -38,7 +38,7 @@
 									<path d="M15.8517 12.0696L13.6949 9.91289C12.9247 9.14263 11.6152 9.45076 11.3071 10.4521C11.0761 11.1453 10.3058 11.5305 9.61257 11.3764C8.07205 10.9913 5.99234 8.98858 5.60721 7.37103C5.37614 6.67777 5.83829 5.90751 6.53153 5.67646C7.53286 5.36836 7.84097 4.05891 7.07071 3.28865L4.91398 1.13193C4.29777 0.592744 3.37346 0.592744 2.83428 1.13193L1.37078 2.59542C-0.0927101 4.13594 1.52484 8.21832 5.14506 11.8385C8.76528 15.4588 12.8477 17.1534 14.3882 15.6128L15.8517 14.1493C16.3909 13.5331 16.3909 12.6088 15.8517 12.0696Z" fill="white" />
 								</g>
 								<defs>
-									<clipPath id="clip0_2644_3583">
+									<clipPath>
 										<rect width="15.4545" height="15.4545" fill="white" transform="translate(0.818359 0.727539)" />
 									</clipPath>
 								</defs>
@@ -65,7 +65,7 @@
 				</a>
 			</li>
 			<li>
-				<a href="https://maps.app.goo.gl/pppZNMibHDhHmGP97" target="_black" class="info-link group">
+				<a href="https://maps.app.goo.gl/pppZNMibHDhHmGP97" target="_blank" class="info-link group">
 					<span class="info-link__icon-ring border-white/20 group-hover:border-primary/75 focus:border-primary/75">
 						<span class="info-link__icon bg-white/20 group-hover:bg-primary/75 focus:bg-primary/75">
 							<svg width="18" height="19" viewBox="0 0 18 19" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -99,7 +99,7 @@
 					<path d="M15.8517 12.0696L13.6949 9.91289C12.9247 9.14263 11.6152 9.45076 11.3071 10.4521C11.0761 11.1453 10.3058 11.5305 9.61257 11.3764C8.07205 10.9913 5.99234 8.98858 5.60721 7.37103C5.37614 6.67777 5.83829 5.90751 6.53153 5.67646C7.53286 5.36836 7.84097 4.05891 7.07071 3.28865L4.91398 1.13193C4.29777 0.592744 3.37346 0.592744 2.83428 1.13193L1.37078 2.59542C-0.0927101 4.13594 1.52484 8.21832 5.14506 11.8385C8.76528 15.4588 12.8477 17.1534 14.3882 15.6128L15.8517 14.1493C16.3909 13.5331 16.3909 12.6088 15.8517 12.0696Z" fill="white" />
 				</g>
 				<defs>
-					<clipPath id="clip0_2644_3583">
+					<clipPath>
 						<rect width="15.4545" height="15.4545" fill="white" transform="translate(0.818359 0.727539)" />
 					</clipPath>
 				</defs>

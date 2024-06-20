@@ -68,7 +68,8 @@
   border-b
   border-b-[#737B7D]
   bg-transparent
-  rounded-none;
+  rounded-none
+  text-white;
 }
 
 .form-outline .gform_fields {
