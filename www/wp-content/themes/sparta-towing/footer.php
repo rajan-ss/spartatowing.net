@@ -64,7 +64,7 @@
 					</span>
 				</a>
 			</li>
-			<li>
+			<!-- <li>
 				<a href="https://maps.app.goo.gl/pppZNMibHDhHmGP97" target="_blank" class="info-link group">
 					<span class="info-link__icon-ring border-white/20 group-hover:border-primary/75 focus:border-primary/75">
 						<span class="info-link__icon bg-white/20 group-hover:bg-primary/75 focus:bg-primary/75">
@@ -77,7 +77,7 @@
 						20 Cooper Square, New York, NY 10003
 					</span>
 				</a>
-			</li>
+			</li> -->
 		</ul>
 	</div>
 	<div class="border-t border-t-white/20 [&_p]:mb-0">
